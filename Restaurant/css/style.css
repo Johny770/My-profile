@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    background-color: #1b1a1b;
+    font-size: 16px;
+    overflow-x: hidden;
+    }
+    .navbar img{
+    width: 100px;
+    }
